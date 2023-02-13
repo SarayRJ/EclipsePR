@@ -1,5 +1,7 @@
 package es.studium.ejercicio4;
-
+/**
+ * @author Saray Rodríguez Nuñez
+ */
 import java.util.Scanner;
 
 public class Ejercicio4
